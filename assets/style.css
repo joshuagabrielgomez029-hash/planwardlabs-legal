@@ -91,3 +91,35 @@ footer a { color: #1a56a0; }
   body { padding: 1.25rem 1rem 2rem; }
   main h1 { font-size: 1.35rem; }
 }
+
+/* Policy page readability additions */
+main p { margin: 0.6rem 0; }
+
+main h2 {
+  font-size: 1.2rem;
+  margin: 2rem 0 0.6rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e2e2;
+}
+
+main ul { margin: 0.5rem 0 1rem; padding-left: 1.4rem; }
+
+main ul li { margin: 0.3rem 0; }
+
+a { color: #1a56a0; }
+
+.policy-meta, .contact-block {
+  background: #f6f8fa;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.policy-meta p, .contact-block p { margin: 0.25rem 0; }
+
+@media (prefers-color-scheme: dark) {
+  main h2 { border-top-color: #333; }
+  .policy-meta, .contact-block { background: #1b1b1b; border-color: #3a3a3a; }
+  a { color: #9cc1f5; }
+}
