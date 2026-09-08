@@ -1,2 +1,11 @@
-# planwardlabs-legal
-Legal and support web pages for Planward Labs
+# Planward Labs — Legal & Support
+
+Public web pages for Planward Labs legal, privacy, and support information, published via GitHub Pages.
+
+- Home: https://joshuagabrielgomez029-hash.github.io/planwardlabs-legal/
+- Privacy Policy: https://joshuagabrielgomez029-hash.github.io/planwardlabs-legal/privacy/
+- Terms of Use: https://joshuagabrielgomez029-hash.github.io/planwardlabs-legal/terms/
+- Account Deletion: https://joshuagabrielgomez029-hash.github.io/planwardlabs-legal/account-deletion/
+- Support: https://joshuagabrielgomez029-hash.github.io/planwardlabs-legal/support/
+
+This repository contains website content only. No application source code is stored here. The site contains no tracking, analytics, cookies, or external resources.
